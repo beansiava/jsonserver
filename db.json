@@ -1,0 +1,28 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "api post",
+      "content": "content for my post",
+      "author": "Server Overlord"
+    },
+    {
+      "title": "fsdf - updated",
+      "content": "sdfds",
+      "author": "sdf",
+      "id": 3
+    },
+    {
+      "title": "test",
+      "content": "test",
+      "author": "tes",
+      "id": 4
+    },
+    {
+      "title": "test add w/out dispatch",
+      "content": "",
+      "author": "",
+      "id": 5
+    }
+  ]
+}
